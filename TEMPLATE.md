@@ -1,5 +1,6 @@
 # About Me:
-Nothing special — just your everyday developer.
+
+Nothing special — just your everyday developer. 😋
 
 ---
 
@@ -34,22 +35,4 @@ Nothing special — just your everyday developer.
 - Issues: **{{ ISSUES }}**
 
 ---
-
-## Top Languages:
-{{ TOP_LANGUAGES }}
-
----
-
-## Achievements
-- Active GitHub contributor
-- Consistent project building
-- Exploring multiple tech stacks
-
----
-
-## 📈 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=mehboobulqadri)
-
----
-
 <!-- Auto-updated via GitHub Actions -->
