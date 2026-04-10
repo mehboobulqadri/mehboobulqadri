@@ -1,5 +1,6 @@
 # About Me:
-Nothing special — just your everyday developer.
+
+Nothing special — just your everyday developer. 😋
 
 ---
 
@@ -27,29 +28,11 @@ Nothing special — just your everyday developer.
 
 # GitHub Stats:
 
-- Total Commits: **142**
+- Total Commits: **143**
 - Stars Earned: **1**
 - Total Repositories: **24**
 - Pull Requests: **8**
 - Issues: **0**
 
 ---
-
-## Top Languages:
-{{ TOP_LANGUAGES }}
-
----
-
-## Achievements
-- Active GitHub contributor
-- Consistent project building
-- Exploring multiple tech stacks
-
----
-
-## 📈 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=mehboobulqadri)
-
----
-
 <!-- Auto-updated via GitHub Actions -->
