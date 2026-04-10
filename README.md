@@ -27,11 +27,11 @@ Nothing special — just your everyday developer.
 
 # GitHub Stats:
 
-- Total Commits: **{{ COMMITS }}**
-- Stars Earned: **{{ STARS }}**
-- Total Repositories: **{{ REPOSITORIES }}**
-- Pull Requests: **{{ PULL_REQUESTS }}**
-- Issues: **{{ ISSUES }}**
+- Total Commits: **142**
+- Stars Earned: **1**
+- Total Repositories: **24**
+- Pull Requests: **8**
+- Issues: **0**
 
 ---
 
