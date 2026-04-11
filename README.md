@@ -28,7 +28,7 @@ Nothing special — just your everyday developer. 😋
 
 # GitHub Stats:
 
-- Total Commits: **143**
+- Total Commits: **6**
 - Stars Earned: **1**
 - Total Repositories: **24**
 - Pull Requests: **8**
