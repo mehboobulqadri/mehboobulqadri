@@ -28,10 +28,10 @@ Nothing special — just your everyday developer. 😋
 
 # GitHub Stats:
 
-- Total Commits: **6**
+- Total Commits: **15**
 - Stars Earned: **1**
 - Total Repositories: **24**
-- Pull Requests: **10**
+- Pull Requests: **13**
 - Issues: **0**
 
 ---
