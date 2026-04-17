@@ -31,7 +31,7 @@ Nothing special — just your everyday developer. 😋
 - Total Commits: **15**
 - Stars Earned: **1**
 - Total Repositories: **24**
-- Pull Requests: **13**
+- Pull Requests: **20**
 - Issues: **0**
 
 ---
